@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "56520686251",
+    "firebase_url": "https://smart-parking-65c12-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "smart-parking-65c12",
+    "storage_bucket": "smart-parking-65c12.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:56520686251:android:fdcd646ee7f554360a15ee",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCx6o6fIJU0u6FYSy0VBYWe_fUDCGdSQ_4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:56520686251:android:ba80d1dd9e58a3a70a15ee",
+        "android_client_info": {
+          "package_name": "com.example.modernlogintute"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCx6o6fIJU0u6FYSy0VBYWe_fUDCGdSQ_4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
